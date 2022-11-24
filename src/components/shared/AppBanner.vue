@@ -27,7 +27,7 @@ export default {
         >
           <h2
             class="mb-5 text-5xl tracking-wider text-white max-w-xs lg:text-6xl"
-            style="line-height: 3.9rem"
+            style="line-height: 3.8rem"
           >
             Your #1 Website Design Agency
           </h2>
