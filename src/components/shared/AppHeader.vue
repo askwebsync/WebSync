@@ -70,9 +70,9 @@ export default {
 
 <template>
   <section class="background-navbar">
-    <nav id="nav" class="md:container md:mx-auto shadow-xl">
+    <nav id="nav" class="container mx-auto shadow-xl">
       <header class="md:flex md:justify-between md:items-center">
-        <div class="flex justify-between items-center px-4 py-6 md:px-0">
+        <div class="flex justify-between items-center md:px-4 py-5 md:px-0">
           <div>
             <router-link :to="{ name: 'home' }" class="focus:outline-none"
               ><img
@@ -114,7 +114,7 @@ export default {
 
         <div
           :class="isOpen ? 'block' : 'hidden'"
-          class="px-5 py-3 justify-center items-center mt-0 md:p-0 md:ml-6 md:mt-3 md:flex md:shadow-none"
+          class="px-5 py-3 justify-center items-center mt-0 md:p-0 md:ml-6 md:flex md:shadow-none"
         >
           <div class="text-left cursor-pointer">
             <a
