@@ -17,7 +17,7 @@
             <div
               class="inline-flex items-center justify-center rounded-full my-3"
             >
-              <img src="@/assets/images/web-64.png" class="object-cover" />
+              <img src="@/assets/images/icon/web-64.png" class="object-cover" />
             </div>
             <div class="max-w-md p-2">
               <h2 class="text-white text-lg text-center">
@@ -33,7 +33,7 @@
             <div
               class="inline-flex items-center justify-center rounded-full my-3"
             >
-              <img src="@/assets/images/app-64.png" class="object-cover" />
+              <img src="@/assets/images/icon/app-64.png" class="object-cover" />
             </div>
             <div class="max-w-md p-2">
               <h2 class="text-white text-lg text-center">Apps Development</h2>
@@ -47,7 +47,7 @@
             <div
               class="inline-flex items-center justify-center rounded-full my-3"
             >
-              <img src="@/assets/images/ui-64.png" class="object-cover" />
+              <img src="@/assets/images/icon/ui-64.png" class="object-cover" />
             </div>
             <div class="max-w-md p-2">
               <h2 class="text-white text-lg text-center">UI/UX Design</h2>
@@ -62,7 +62,7 @@
               class="inline-flex items-center justify-center rounded-full my-3"
             >
               <img
-                src="@/assets/images/social-media-1.png"
+                src="@/assets/images/icon/social-media-1.png"
                 class="object-cover"
               />
             </div>

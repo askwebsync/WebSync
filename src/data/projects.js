@@ -4,7 +4,7 @@ const projects = [
     title: "Wisma52",
     date: "30 May 2022",
     category: "Company Profile",
-    img: [require("@/assets/images/wisma52/home-mobile.png")],
+    img: [require("@/assets/images/porto/wisma52/home-mobile.png")],
     link: "https://wisma52.com/",
   },
   {
@@ -12,7 +12,7 @@ const projects = [
     title: "Mitrasona",
     date: "4 Agustus 2022",
     category: "Company Profile",
-    img: [require("@/assets/images/mitrasona/home.png")],
+    img: [require("@/assets/images/porto/mitrasona/home.png")],
     link: "https://mitrasonapersada.com/",
   },
 ];

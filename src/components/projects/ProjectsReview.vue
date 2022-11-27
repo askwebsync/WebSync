@@ -55,7 +55,7 @@
                         {{ product.owner }}
                       </h5>
                       <hr />
-                      <p class="mt-4 text-base md:text-lg max-w-sm">
+                      <p class="my-4 text-base md:text-lg max-w-sm">
                         {{ product.comment }}
                       </p>
                     </div>
@@ -128,11 +128,11 @@ export default {
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap");
 
 .carousel__next {
-  right: -50px;
+  right: -60px;
   background-color: #444444 !important;
 }
 .carousel__prev {
-  left: -50px;
+  left: -60px;
   background-color: #444444 !important;
 }
 .carousel__icon {

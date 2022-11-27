@@ -76,7 +76,7 @@ export default {
           <div>
             <router-link :to="{ name: 'home' }" class="focus:outline-none"
               ><img
-                src="@/assets/images/logo-1.png"
+                src="@/assets/images/logo/logo-1.png"
                 class="w-16 h-14 md:w-16 md:h-14 focus:outline-none"
                 alt="Logo"
               />

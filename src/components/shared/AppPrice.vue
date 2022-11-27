@@ -1,22 +1,18 @@
 <template>
-  <div
-    class="container mx-auto items-center flex flex-col py-12 gap-y-24 px-0 md:px-6"
-  >
-    <h2 class="text-2xl md:text-3xl font-semibold text-white bounceIn mb-3">
-      Pricelist
-    </h2>
+  <div class="container mx-auto items-center flex flex-col py-12 px-0 md:px-6">
+    <div class="space-y-5 my-6 text-center">
+      <h2 class="font-general-semibold text-4xl md:text-5xl font-semibold text-white bounceIn mb-3">
+        Pricelist
+      </h2>
+      <hr />
+    </div>
+    <hr />
     <div class="px-0 md:px-3">
       <div class="flex flex-wrap justify-center gap-12 items-center">
         <div class="sm:my-5 my-8 rounded-lg shadow-xl">
-          <div
-            class="background-gray text-black rounded-lg border-t border-gray-100 shadow-lg overflow-hidden"
-          >
-            <div
-              class="block text-left text-sm sm:text-md max-w-sm mx-auto mt-2 text-black px-6 border-b"
-            >
-              <h2
-                class="text-yellow text-xl uppercase font-medium p-3 mb-3 text-center"
-              >
+          <div class="background-gray text-black rounded-lg border-t border-gray-100 shadow-lg overflow-hidden">
+            <div class="block text-left text-sm sm:text-md max-w-sm mx-auto mt-2 text-black px-6 border-b">
+              <h2 class="text-yellow text-xl md:text-2xl uppercase font-medium p-3 mb-3 text-center">
                 Android
               </h2>
               <h1 class="text-base text-white text-center pb-4">Start From</h1>
@@ -29,17 +25,8 @@
               <ul>
                 <li class="flex items-center">
                   <div class="rounded-full p-3 fill-current text-white">
-                    <svg
-                      class="w-6 h-6 align-middle"
-                      width="24"
-                      height="24"
-                      viewBox="0 0 24 24"
-                      fill="none"
-                      stroke="currentColor"
-                      stroke-width="2"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    >
+                    <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                      stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                       <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
                       <polyline points="22 4 12 14.01 9 11.01"></polyline>
                     </svg>
@@ -48,17 +35,8 @@
                 </li>
                 <li class="flex items-center">
                   <div class="rounded-full p-3 fill-current text-white">
-                    <svg
-                      class="w-6 h-6 align-middle"
-                      width="24"
-                      height="24"
-                      viewBox="0 0 24 24"
-                      fill="none"
-                      stroke="currentColor"
-                      stroke-width="2"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    >
+                    <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                      stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                       <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
                       <polyline points="22 4 12 14.01 9 11.01"></polyline>
                     </svg>
@@ -67,17 +45,8 @@
                 </li>
                 <li class="flex items-center">
                   <div class="rounded-full p-3 fill-current text-white">
-                    <svg
-                      class="w-6 h-6 align-middle"
-                      width="24"
-                      height="24"
-                      viewBox="0 0 24 24"
-                      fill="none"
-                      stroke="currentColor"
-                      stroke-width="2"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    >
+                    <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                      stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                       <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
                       <polyline points="22 4 12 14.01 9 11.01"></polyline>
                     </svg>
@@ -86,17 +55,8 @@
                 </li>
                 <li class="flex items-center">
                   <div class="rounded-full p-3 fill-current text-white">
-                    <svg
-                      class="w-6 h-6 align-middle"
-                      width="24"
-                      height="24"
-                      viewBox="0 0 24 24"
-                      fill="none"
-                      stroke="currentColor"
-                      stroke-width="2"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    >
+                    <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                      stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                       <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
                       <polyline points="22 4 12 14.01 9 11.01"></polyline>
                     </svg>
@@ -105,17 +65,8 @@
                 </li>
                 <li class="flex items-center">
                   <div class="rounded-full p-3 fill-current text-white">
-                    <svg
-                      class="w-6 h-6 align-middle"
-                      width="24"
-                      height="24"
-                      viewBox="0 0 24 24"
-                      fill="none"
-                      stroke="currentColor"
-                      stroke-width="2"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    >
+                    <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                      stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                       <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
                       <polyline points="22 4 12 14.01 9 11.01"></polyline>
                     </svg>
@@ -124,17 +75,8 @@
                 </li>
                 <li class="flex items-center">
                   <div class="rounded-full p-3 fill-current text-white">
-                    <svg
-                      class="w-6 h-6 align-middle"
-                      width="24"
-                      height="24"
-                      viewBox="0 0 24 24"
-                      fill="none"
-                      stroke="currentColor"
-                      stroke-width="2"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    >
+                    <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                      stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                       <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
                       <polyline points="22 4 12 14.01 9 11.01"></polyline>
                     </svg>
@@ -143,17 +85,8 @@
                 </li>
                 <li class="flex items-center">
                   <div class="rounded-full p-3 fill-current text-white">
-                    <svg
-                      class="w-6 h-6 align-middle"
-                      width="24"
-                      height="24"
-                      viewBox="0 0 24 24"
-                      fill="none"
-                      stroke="currentColor"
-                      stroke-width="2"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    >
+                    <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                      stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                       <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
                       <polyline points="22 4 12 14.01 9 11.01"></polyline>
                     </svg>
@@ -164,17 +97,8 @@
                 </li>
                 <li class="flex items-center">
                   <div class="rounded-full p-3 fill-current text-white">
-                    <svg
-                      class="w-6 h-6 align-middle"
-                      width="24"
-                      height="24"
-                      viewBox="0 0 24 24"
-                      fill="none"
-                      stroke="currentColor"
-                      stroke-width="2"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    >
+                    <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                      stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                       <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
                       <polyline points="22 4 12 14.01 9 11.01"></polyline>
                     </svg>
@@ -185,17 +109,8 @@
                 </li>
                 <li class="flex items-center">
                   <div class="rounded-full p-3 fill-current text-white">
-                    <svg
-                      class="w-6 h-6 align-middle"
-                      width="24"
-                      height="24"
-                      viewBox="0 0 24 24"
-                      fill="none"
-                      stroke="currentColor"
-                      stroke-width="2"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    >
+                    <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                      stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                       <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
                       <polyline points="22 4 12 14.01 9 11.01"></polyline>
                     </svg>
@@ -206,17 +121,8 @@
                 </li>
                 <li class="flex items-center">
                   <div class="rounded-full p-3 fill-current text-white">
-                    <svg
-                      class="w-6 h-6 align-middle"
-                      width="24"
-                      height="24"
-                      viewBox="0 0 24 24"
-                      fill="none"
-                      stroke="currentColor"
-                      stroke-width="2"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    >
+                    <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                      stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                       <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
                       <polyline points="22 4 12 14.01 9 11.01"></polyline>
                     </svg>
@@ -228,15 +134,9 @@
           </div>
         </div>
         <div class="sm:my-5 my-8 rounded-lg shadow-xl">
-          <div
-            class="background-gray text-black rounded-lg border-t border-gray-100 shadow-lg overflow-hidden"
-          >
-            <div
-              class="block text-left text-sm sm:text-md max-w-sm mx-auto mt-2 text-black px-6 border-b"
-            >
-              <h2
-                class="text-yellow text-xl uppercase font-medium p-3 mb-3 text-center"
-              >
+          <div class="background-gray text-black rounded-lg border-t border-gray-100 shadow-lg overflow-hidden">
+            <div class="block text-left text-sm sm:text-md max-w-sm mx-auto mt-2 text-black px-6 border-b">
+              <h2 class="text-yellow text-xl md:text-2xl uppercase font-medium p-3 mb-3 text-center">
                 IOS
               </h2>
               <h1 class="text-base text-white text-center pb-4">Start From</h1>
@@ -248,17 +148,8 @@
               <ul>
                 <li class="flex items-center">
                   <div class="rounded-full p-3 fill-current text-white">
-                    <svg
-                      class="w-6 h-6 align-middle"
-                      width="24"
-                      height="24"
-                      viewBox="0 0 24 24"
-                      fill="none"
-                      stroke="currentColor"
-                      stroke-width="2"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    >
+                    <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                      stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                       <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
                       <polyline points="22 4 12 14.01 9 11.01"></polyline>
                     </svg>
@@ -267,17 +158,8 @@
                 </li>
                 <li class="flex items-center">
                   <div class="rounded-full p-3 fill-current text-white">
-                    <svg
-                      class="w-6 h-6 align-middle"
-                      width="24"
-                      height="24"
-                      viewBox="0 0 24 24"
-                      fill="none"
-                      stroke="currentColor"
-                      stroke-width="2"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    >
+                    <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                      stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                       <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
                       <polyline points="22 4 12 14.01 9 11.01"></polyline>
                     </svg>
@@ -286,17 +168,8 @@
                 </li>
                 <li class="flex items-center">
                   <div class="rounded-full p-3 fill-current text-white">
-                    <svg
-                      class="w-6 h-6 align-middle"
-                      width="24"
-                      height="24"
-                      viewBox="0 0 24 24"
-                      fill="none"
-                      stroke="currentColor"
-                      stroke-width="2"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    >
+                    <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                      stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                       <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
                       <polyline points="22 4 12 14.01 9 11.01"></polyline>
                     </svg>
@@ -305,17 +178,8 @@
                 </li>
                 <li class="flex items-center">
                   <div class="rounded-full p-3 fill-current text-white">
-                    <svg
-                      class="w-6 h-6 align-middle"
-                      width="24"
-                      height="24"
-                      viewBox="0 0 24 24"
-                      fill="none"
-                      stroke="currentColor"
-                      stroke-width="2"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    >
+                    <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                      stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                       <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
                       <polyline points="22 4 12 14.01 9 11.01"></polyline>
                     </svg>
@@ -324,17 +188,8 @@
                 </li>
                 <li class="flex items-center">
                   <div class="rounded-full p-3 fill-current text-white">
-                    <svg
-                      class="w-6 h-6 align-middle"
-                      width="24"
-                      height="24"
-                      viewBox="0 0 24 24"
-                      fill="none"
-                      stroke="currentColor"
-                      stroke-width="2"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    >
+                    <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                      stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                       <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
                       <polyline points="22 4 12 14.01 9 11.01"></polyline>
                     </svg>
@@ -343,17 +198,8 @@
                 </li>
                 <li class="flex items-center">
                   <div class="rounded-full p-3 fill-current text-white">
-                    <svg
-                      class="w-6 h-6 align-middle"
-                      width="24"
-                      height="24"
-                      viewBox="0 0 24 24"
-                      fill="none"
-                      stroke="currentColor"
-                      stroke-width="2"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    >
+                    <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                      stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                       <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
                       <polyline points="22 4 12 14.01 9 11.01"></polyline>
                     </svg>
@@ -362,17 +208,8 @@
                 </li>
                 <li class="flex items-center">
                   <div class="rounded-full p-3 fill-current text-white">
-                    <svg
-                      class="w-6 h-6 align-middle"
-                      width="24"
-                      height="24"
-                      viewBox="0 0 24 24"
-                      fill="none"
-                      stroke="currentColor"
-                      stroke-width="2"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    >
+                    <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                      stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                       <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
                       <polyline points="22 4 12 14.01 9 11.01"></polyline>
                     </svg>
@@ -383,17 +220,8 @@
                 </li>
                 <li class="flex items-center">
                   <div class="rounded-full p-3 fill-current text-white">
-                    <svg
-                      class="w-6 h-6 align-middle"
-                      width="24"
-                      height="24"
-                      viewBox="0 0 24 24"
-                      fill="none"
-                      stroke="currentColor"
-                      stroke-width="2"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    >
+                    <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                      stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                       <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
                       <polyline points="22 4 12 14.01 9 11.01"></polyline>
                     </svg>
@@ -404,17 +232,8 @@
                 </li>
                 <li class="flex items-center">
                   <div class="rounded-full p-3 fill-current text-white">
-                    <svg
-                      class="w-6 h-6 align-middle"
-                      width="24"
-                      height="24"
-                      viewBox="0 0 24 24"
-                      fill="none"
-                      stroke="currentColor"
-                      stroke-width="2"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    >
+                    <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                      stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                       <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
                       <polyline points="22 4 12 14.01 9 11.01"></polyline>
                     </svg>
@@ -425,17 +244,8 @@
                 </li>
                 <li class="flex items-center">
                   <div class="rounded-full p-3 fill-current text-white">
-                    <svg
-                      class="w-6 h-6 align-middle"
-                      width="24"
-                      height="24"
-                      viewBox="0 0 24 24"
-                      fill="none"
-                      stroke="currentColor"
-                      stroke-width="2"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    >
+                    <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                      stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                       <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
                       <polyline points="22 4 12 14.01 9 11.01"></polyline>
                     </svg>
@@ -468,6 +278,7 @@ export default {};
 }
 
 @-webkit-keyframes bounceIn {
+
   0%,
   20%,
   40%,
@@ -513,6 +324,7 @@ export default {};
 }
 
 @keyframes bounceIn {
+
   0%,
   20%,
   40%,
