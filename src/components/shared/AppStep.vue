@@ -7,6 +7,23 @@
           We’re technologists and entrepreneurs, so we understand both the
           technical and business challenges of creating digital products
         </p>
+        <div class="text-center mb-24">
+              <span
+                class="inline-block w-1 h-1 rounded-full bg-yellow-400 ml-1"
+              ></span>
+              <span
+                class="inline-block w-3 h-1 rounded-full bg-yellow-400 ml-1"
+              ></span>
+              <span
+                class="inline-block w-40 h-1 rounded-full bg-yellow-400"
+              ></span>
+              <span
+                class="inline-block w-3 h-1 rounded-full bg-yellow-400 ml-1"
+              ></span>
+              <span
+                class="inline-block w-1 h-1 rounded-full bg-yellow-400 ml-1"
+              ></span>
+            </div>
       </div>
       <div
         class="flex flex-wrap gap-12 mt-12 items-center self-center justify-center"

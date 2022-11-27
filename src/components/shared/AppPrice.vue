@@ -4,9 +4,14 @@
       <h2 class="font-general-semibold text-4xl md:text-5xl font-semibold text-white bounceIn mb-3">
         Pricelist
       </h2>
-      <hr />
+      <div class="text-center mb-24">
+        <span class="inline-block w-1 h-1 rounded-full bg-yellow-400 ml-1"></span>
+        <span class="inline-block w-3 h-1 rounded-full bg-yellow-400 ml-1"></span>
+        <span class="inline-block w-40 h-1 rounded-full bg-yellow-400"></span>
+        <span class="inline-block w-3 h-1 rounded-full bg-yellow-400 ml-1"></span>
+        <span class="inline-block w-1 h-1 rounded-full bg-yellow-400 ml-1"></span>
+      </div>
     </div>
-    <hr />
     <div class="px-0 md:px-3">
       <div class="flex flex-wrap justify-center gap-12 items-center">
         <div class="sm:my-5 my-8 rounded-lg shadow-xl">

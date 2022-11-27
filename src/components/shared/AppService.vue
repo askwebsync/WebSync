@@ -8,6 +8,23 @@
         <p class="text-gray-400 text-base">
           Where our solutions become your internet reality.
         </p>
+        <div class="text-center mb-24">
+              <span
+                class="inline-block w-1 h-1 rounded-full bg-yellow-400 ml-1"
+              ></span>
+              <span
+                class="inline-block w-3 h-1 rounded-full bg-yellow-400 ml-1"
+              ></span>
+              <span
+                class="inline-block w-40 h-1 rounded-full bg-yellow-400"
+              ></span>
+              <span
+                class="inline-block w-3 h-1 rounded-full bg-yellow-400 ml-1"
+              ></span>
+              <span
+                class="inline-block w-1 h-1 rounded-full bg-yellow-400 ml-1"
+              ></span>
+            </div>
       </div>
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
         <div
