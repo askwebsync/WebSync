@@ -92,7 +92,7 @@ export default {
         </select>
       </div>
 
-      <div class="grid md:grid-cols-2 gap-10 my-12">
+      <div class="grid md:grid-cols-3 gap-10 my-12">
         <ProjectSingle v-for="project in filteredProjects" :key="project.id" :project="project" />
       </div>
       <div class="flex justify-center mb-5">

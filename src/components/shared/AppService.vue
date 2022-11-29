@@ -53,7 +53,7 @@
               <img src="@/assets/images/icon/app-64.png" class="object-cover" />
             </div>
             <div class="max-w-md p-2">
-              <h2 class="text-white text-lg text-center">Apps Development</h2>
+              <h2 class="text-white text-lg text-center">Mobile Apps Development</h2>
             </div>
           </div>
         </div>
@@ -67,7 +67,7 @@
               <img src="@/assets/images/icon/ui-64.png" class="object-cover" />
             </div>
             <div class="max-w-md p-2">
-              <h2 class="text-white text-lg text-center">UI/UX Design</h2>
+              <h2 class="text-white text-lg text-center">UI/UX Custom Design</h2>
             </div>
           </div>
         </div>

@@ -15,5 +15,13 @@ const projects = [
     img: [require("@/assets/images/porto/mitrasona/home.png")],
     link: "https://mitrasonapersada.com/",
   },
+  {
+    id: 3,
+    title: "Genova",
+    date: "4 Agustus 2022",
+    category: "Company Profile",
+    img: [require("@/assets/images/porto/genova/home.png")],
+    link: "http://genovaindonesia.com/",
+  },
 ];
 export default projects;
