@@ -18,7 +18,7 @@ const projects = [
   {
     id: 3,
     title: "Genova",
-    date: "4 Agustus 2022",
+    date: "28 November 2022",
     category: "E-Commerce",
     img: [require("@/assets/images/porto/genova/home.png")],
     link: "http://genovaindonesia.com/",
