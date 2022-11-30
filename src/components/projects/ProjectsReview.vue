@@ -104,6 +104,13 @@ export default {
           comment:
             " The results of the website are good even though the price is relatively cheap  compared to other services, very fast in responding questions, support from the beginning of the design stage, as welltaught me to configure a custom email.",
         },
+        {
+          id: 3,
+          name: "Aquira Bellinda",
+          owner: "Genova Indonesia",
+          comment:
+            "Very satisfied with the results and certainly the same fast response service! Highly recommended!",
+        },
       ],
       breakpoints: {
         400: {
